@@ -1,0 +1,11 @@
+Interval Time,Stable Virtual (t),Stable Iteration
+Ideal,39,39
+1,39,39
+2,40,20
+4,40,10
+8,40,5
+16,48,3
+32,96,3
+64,192,3
+128,-1,-1
+256,-1,-1
